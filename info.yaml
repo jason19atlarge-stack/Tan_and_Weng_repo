@@ -16,12 +16,12 @@ project:
 # This section is for the datasheet/website. Use descriptive names (e.g., RX, TX, MOSI, SCL, SEG_A, etc.).
 pinout:
   # Inputs
-  ui[0]: "A0"
-  ui[1]: "A1"
-  ui[2]: "B0"
-  ui[3]: "B1"
-  ui[4]: "C0"
-  ui[5]: "C1"
+  ui[0]: "A0 / X0"
+  ui[1]: "A1 / X1"
+  ui[2]: "B0 / X2"
+  ui[3]: "B1 / Y0"
+  ui[4]: "C0 / Y1"
+  ui[5]: "C1 / Y2"
   ui[6]: "MODE"
   ui[7]: "SELECT"
 
